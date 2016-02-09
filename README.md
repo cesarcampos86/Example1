@@ -1,2 +1,2 @@
 # Example1
-This is an example repository
+This is a small example of code for SIMRAD.
